@@ -2,13 +2,15 @@ body{
 	background: url(https://cdn.discordapp.com/attachments/817489298450153502/817506322207080548/background.webp);
 	background-size: cover;
 	background-attachment: fixed;
+	margin: 0;
 }
 .head{
-	margin: 0;
 	border-radius: 9px;
 	background: #171717;
 	position: fixed;
-	width: 98.8%;
+	width: 98%;
+	left: 50%;
+	transform: translate(-50%, 0);
 }
 .header{
 	padding: 5px;
@@ -19,7 +21,6 @@ body{
 	background: url(https://cdn.discordapp.com/attachments/817489298450153502/817489870012416011/background_inverted.webp);
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-attachment: fixed;
 	border-radius: 9px;
 }
 .navs{
@@ -86,6 +87,8 @@ body{
 	border-radius: 9px;
 	color: white;
 	font-family: sans-serif;
+	width: 98%;
+	margin: auto;
 }
 .body-index{
 	background: #171717;
@@ -94,6 +97,8 @@ body{
 	font-family: sans-serif;
 	padding-top: 30px;
 	padding-bottom: 30px;
+	width: 98%;
+	margin: auto;
 }
 .body h1{
 	padding-top: 10px;

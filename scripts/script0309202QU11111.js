@@ -23,6 +23,12 @@
 	  },
 	  {
 		  text: "<i>You'll be my heart crystal forever~~</i>",
+	  },
+	  {
+		  text: "I like ya cut G",
+	  },
+	  {
+		  text: "<strike>I'll go yeet myself out of the window before anything happens</strike>",
 	  }
     ];
     var randomtext = quotes[Math.floor(Math.random() * quotes.length)];

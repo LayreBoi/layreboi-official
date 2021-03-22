@@ -1,12 +1,12 @@
 body{
-	background: url(https://cdn.discordapp.com/attachments/817489298450153502/817506322207080548/background.webp);
+	background: url(https://cdn.discordapp.com/attachments/817489298450153502/823505393648664636/Untitled23_20210220212032.webp);
 	background-size: cover;
 	background-attachment: fixed;
 	margin: 0;
 }
 .head{
 	border-radius: 9px;
-	background: #171717;
+	background: white;
 	position: fixed;
 	width: 98%;
 	left: 50%;
@@ -16,9 +16,9 @@ body{
 	padding: 5px;
 	padding-left: 20px;
 	text-align: left;
-	color: white;
+	color: black;
 	font-family: Verdana;
-	background: url(https://cdn.discordapp.com/attachments/817489298450153502/817489870012416011/background_inverted.webp);
+	background: url(https://cdn.discordapp.com/attachments/817489298450153502/817506322207080548/background.webp);
 	background-size: cover;
 	background-repeat: no-repeat;
 	border-radius: 9px;
@@ -36,7 +36,7 @@ body{
 }
 .navbutton{
 	background: none;
-	color: white;
+	color: black;
 	border: none;
 	outline: none;
 	transition: 0.25s;
@@ -45,14 +45,14 @@ body{
 }
 .navbutton:hover{
 	color: black;
-	background: white;
+	background: #ececec;
 	transition: 0.25s;
 	cursor: pointer;
 	font-size: 18px;
 }
 .navbuttonyt{
 	background: none;
-	color: white;
+	color: black;
 	border: none;
 	outline: none;
 	transition: 0.25s;
@@ -66,37 +66,12 @@ body{
 	cursor: pointer;
 	font-size: 18px;
 }
-.currentnav{
-	background: #DDDDDD;
-	color: #171717;
-	border: none;
-	outline: none;
-	transition: 0.25s;
-	border-radius: 9px;
-	font-size: 16px;
-}
-.currentnav:hover{
-	color: #171717;
-	background: white;
-	transition: 0.25s;
-	font-size: 18px;
-}
 
 .body{
-	background: #171717;
+	background: #e9e9e9;
 	border-radius: 9px;
-	color: white;
+	color: black;
 	font-family: sans-serif;
-	width: 98%;
-	margin: auto;
-}
-.body-index{
-	background: #171717;
-	border-radius: 9px;
-	color: white;
-	font-family: sans-serif;
-	padding-top: 30px;
-	padding-bottom: 30px;
 	width: 98%;
 	margin: auto;
 }
@@ -108,16 +83,8 @@ body{
 	font-family: verdana;
 }
 
-.image{
-	background: url(https://cdn.discordapp.com/attachments/817489298450153502/823493447406845972/Untitled37_20210322104826.png);
-	background-size: cover;
-	width: 500px;
-	height: 250px;
-	margin: auto;
-	border-radius: 250px;
-	box-shadow: 0 0px 16px 0 #313131, inset 0 0px 8px #202020;
 }
-.idk{
+.kek{
 	background: none;
 	width: 100%;
 	height: 10px;
@@ -142,18 +109,6 @@ body{
 
 
 
-.releaseart{
-	width: 200px;
-	height: 200px;
-	border-radius: 9px;
-	text-decoration: none;
-	transition: 0.25s;
-}
-.releaseart:hover{
-	width: 210px;
-	height: 210px;
-	transition: 0.25s;
-}
 .releaseinfoart{
 	width: 350px;
 	height: 350px;
@@ -167,7 +122,7 @@ body{
 
 .trackfull{
 	padding: 2px;
-	background-color: #202020;
+	background-color: #d0d0d0;
 	border-radius: 9px;
 }
 
@@ -207,4 +162,12 @@ body{
 	height: 100px;
 	width: 100px;
 	background-size: cover;
+	display: inline-block;
+}
+.ttien63logo{
+	background: url(https://cdn.discordapp.com/attachments/817489298450153502/823531232305479680/Untitled38_20210322131633.webp);
+	height: 100px;
+	width: 100px;
+	background-size: cover;
+	display: inline-block;
 }

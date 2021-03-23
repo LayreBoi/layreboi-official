@@ -113,11 +113,12 @@ body{
 .image{
 	background: url(https://cdn.discordapp.com/attachments/817489298450153502/823493447406845972/Untitled37_20210322104826.png);
 	background-size: cover;
-	width: 500px;
-	height: 250px;
+	width: 330px;
+	height: 150px;
 	margin: auto;
 	border-radius: 250px;
 	box-shadow: 0 0px 16px 0 #313131, inset 0 0px 8px #202020;
+	padding-bottom: 16px;
 }
 .idk{
 	background: none;

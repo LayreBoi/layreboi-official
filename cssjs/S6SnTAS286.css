@@ -1,0 +1,26 @@
+.logo{
+	height: 100px;
+	width: auto;
+	transition: 0.25s;
+}
+.nytbut{
+	padding: 2px;
+	border-radius: 5px;
+}
+.navigation{
+	text-align: right;
+	margin-right: 5px;
+	position: absolute;
+}
+.header{
+	background-color: #00000030;
+	height: 135px;
+	width: 100%;
+	position: fixed;
+}
+.bodydex{
+	padding-top: 130px;
+}
+.what{
+	box-shadow: 0 3px 10px #13131330;
+}

@@ -1,0 +1,37 @@
+body{
+	margin: 0;
+	background: url(https://cdn.discordapp.com/attachments/833015294313496616/833015615618023444/menu-background.jpg);
+	background-size: cover;
+	background-repeat: 0;
+	background-attachment: fixed;
+	background-color: #679AE8;
+}
+.logo:hover{
+	height: 110px;
+	transition: 0.25s;
+}
+.navbut:hover{
+	transition: 0.25s;
+	margin-left: 8px;
+	font-size: 25px;
+}
+.nytbut{
+	font-weight: 400;
+    font-size: 20px;
+    color: #edf0f1;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-align: center;
+	transition: 0.25s;
+	margin-left: 5px;
+	background-color: #ff0000;
+}
+.beeglogo{
+	background: url(https://cdn.discordapp.com/attachments/833015294313496616/833046424634785832/Untitled45_20210417202843.png);
+	background-size: cover;
+	height: 260px;
+	width: 200px;
+	margin: auto;
+	margin-top: 100px;
+}

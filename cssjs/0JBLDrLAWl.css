@@ -1,0 +1,17 @@
+.trackfull{
+	padding: 2px;
+	background-color: #20202012;
+	border-radius: 9px;
+	width: 90%;
+	margin: auto;
+}
+.releaseinfoart{
+	width: 350px;
+	height: 350px;
+	border-radius: 18px;
+	
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+}

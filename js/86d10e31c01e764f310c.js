@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d213cbb"],{adce:function(c,e,n){"use strict";n.r(e);var o={create:function(){window.location.href="https://gamejolt.com/games/gemashy/647186"}};e["default"]=o}}]);
